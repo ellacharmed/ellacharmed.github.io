@@ -1,1 +1,5 @@
-theme: jekyll-theme-tactile
+title: Ella Sahnan
+logo: /assets/img/headshot_circle.png
+description: Data Scientist
+show_downloads: false
+theme: jekyll-theme-minimal
